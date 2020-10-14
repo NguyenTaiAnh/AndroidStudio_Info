@@ -7,19 +7,7 @@
     tools:context=".MainActivity"
     android:orientation="vertical"
     >
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Thông tin cá nhân"
-        android:textSize="20dp"
-        android:textColor="@color/clor_info"
-        android:background="@color/bgr_info"
-        android:gravity="center"
-        android:layout_marginBottom="10dp"
-        android:padding="5dp"
-        android:textStyle="bold"
-        />
-
+    
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
